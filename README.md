@@ -27,3 +27,15 @@ RP2350 (Pico 2) is still relatively new. This lab focuses on:
 - USB power meter for current measurements
 
 All examples are tested and reproducible.
+---
+
+## Related Publication
+
+Some of the structured experiments and extended explanations from this lab are covered in the book:
+
+**Embedded Systems with Raspberry Pi Pico 2 and RP2350 – Projects, TinyML, and IoT Applications**
+
+Available here:https://www.amazon.com/dp/B0GQV1436P
+
+This repository contains working code and measured results.
+The book expands on architecture, design reasoning, and full-system integration.
